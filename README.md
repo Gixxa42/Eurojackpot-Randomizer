@@ -3,6 +3,7 @@ A little script that will generate up to 14 fields to play the Eurojackpot.
 
 If you have a gableing addiction please get help:
 
+```
 Denmark: Center for Ludomani - https://www.centerforludomani.dk
 Germany: Deutsche Hauptstelle für Suchtfragen e.V. (DHS) - https://www.dhs.de
 Estonia: Eesti Mängusõltlaste Ühing - http://www.eestimsu.ee
@@ -21,3 +22,4 @@ Slovenia: Center za socialno delo - https://www.csd.si
 Spain: FEJAR (Federación Española de Jugadores de Azar Rehabilitados) - http://www.fejar.org
 Czech Republic: Hraje rozumne - https://www.hrajerozumne.cz
 Hungary: Szerencsejáték Függőkért Alapítvány - http://www.szfa.hu
+```
