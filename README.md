@@ -1,7 +1,7 @@
 # Eurojackpot-Randomizer
 A little script that will generate up to 14 fields to play the Eurojackpot.
 
-If you have a gableing addiction please get help:
+If you have a gambling addiction please get help:
 
 ```
 Denmark: Center for Ludomani - https://www.centerforludomani.dk
